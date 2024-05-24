@@ -14,13 +14,13 @@ const NavBar = () => {
           href="/blogs"
           className="rounded bg-gray-700 px-3 py-4 text-white hover:bg-gray-500"
         >
-          Nested Layout with Blogs
+          blogs{' '}
         </Link>
         <Link
-          href="/streaming-sr"
+          href="/todo"
           className="rounded bg-gray-700 px-3 py-4 text-white hover:bg-gray-500"
         >
-          Steaming Sr
+          TDOO
         </Link>
         <Link
           href="/auth"
